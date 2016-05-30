@@ -1,0 +1,28 @@
+﻿body {
+}
+.shopList
+{
+    width:auto;
+    float:left;
+    margin-right:25px;
+}
+.list
+{
+    width:200px;
+    height:300px;
+}
+.cartList
+{
+    width:auto;
+    float:left;
+}
+.button
+{
+    width:50px;
+    float:left;
+}
+.buyButton
+{
+    clear:both;
+    margin-top:30px;
+}

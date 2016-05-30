@@ -1,0 +1,14 @@
+c:\users\esr13004\documents\visual studio 2010\Projects\myShopNet\myShopNet\bin\myShopNet.dll
+c:\users\esr13004\documents\visual studio 2010\Projects\myShopNet\myShopNet\bin\myShopNet.pdb
+c:\users\esr13004\documents\visual studio 2010\Projects\myShopNet\myShopNet\obj\Debug\ResolveAssemblyReference.cache
+c:\users\esr13004\documents\visual studio 2010\Projects\myShopNet\myShopNet\obj\Debug\myShopNet.dll
+c:\users\esr13004\documents\visual studio 2010\Projects\myShopNet\myShopNet\obj\Debug\myShopNet.pdb
+C:\Users\bsc13002\Desktop\myShopNet\myShopNet\bin\myShopNet.dll
+C:\Users\bsc13002\Desktop\myShopNet\myShopNet\bin\myShopNet.pdb
+C:\Users\bsc13002\Desktop\myShopNet\myShopNet\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\bsc13002\Desktop\myShopNet\myShopNet\obj\Debug\myShopNet.dll
+C:\Users\bsc13002\Desktop\myShopNet\myShopNet\obj\Debug\myShopNet.pdb
+D:\Documents\EUROWEB\MDH\Component technologies\Assignments\Assignment 1\myShopNet\myShopNet\myShopNet\bin\myShopNet.dll
+D:\Documents\EUROWEB\MDH\Component technologies\Assignments\Assignment 1\myShopNet\myShopNet\myShopNet\bin\myShopNet.pdb
+D:\Documents\EUROWEB\MDH\Component technologies\Assignments\Assignment 1\myShopNet\myShopNet\myShopNet\obj\Debug\myShopNet.dll
+D:\Documents\EUROWEB\MDH\Component technologies\Assignments\Assignment 1\myShopNet\myShopNet\myShopNet\obj\Debug\myShopNet.pdb
